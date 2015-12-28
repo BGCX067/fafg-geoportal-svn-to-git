@@ -1,0 +1,16 @@
+
+GeoPortal de la Fundación de Antropología Forense de Guatemala
+
+= Introducción =
+
+La Fundación de Antropología Forense de Guatemala tiene la información sobre casos de estudio del conflicto armado interno georreferenciados, para lo cual se está creando este proyecto con el objetivo de proporcionar información a todos las personas interesadas en este tema
+
+= Detalles =
+
+     *  Software realizado en Javascript
+     *  Utilización de librerías Ext, GeoExt, OpenLayers
+
+= Contribuyentes =
+
+     *  Byron Bobadilla
+     *  Cecilia Bolaños
